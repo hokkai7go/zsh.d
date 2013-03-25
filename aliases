@@ -45,6 +45,9 @@ alias gish='git push'
 alias gic='git commit'
 alias gicl='git clone'
 
+# require dotfiles/git/.gitconfig
+alias gta='git treeall'
+
 # rails2
 # alias ss='ruby script/server'
 # alias ssu='ruby script/server -u'
@@ -55,7 +58,6 @@ alias gicl='git clone'
 # alias r='rails'
 alias be='bundle exec'
 alias ber='bundle exec rails'
-alias berk='bundle exec rake'
 alias py='pry -r ./config/environment'
 alias bpy='bundle exec pry -r ./config/environment'
 
