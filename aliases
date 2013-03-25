@@ -58,7 +58,6 @@ alias gta='git treeall'
 # alias r='rails'
 alias be='bundle exec'
 alias ber='bundle exec rails'
-alias berk='bundle exec rake'
 alias py='pry -r ./config/environment'
 alias bpy='bundle exec pry -r ./config/environment'
 
