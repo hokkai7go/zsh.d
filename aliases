@@ -51,6 +51,12 @@ alias gish='git push'
 alias gic='git commit'
 alias gicl='git clone'
 
+# vagrant
+alias va='vagrant up && vagrant ssh'
+alias vap='vagrant up'
+alias vas='vagrant ssh'
+alias vapr='vagrant provision'
+
 # require dotfiles/git/.gitconfig
 alias gta='git treeall'
 
