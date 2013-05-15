@@ -34,9 +34,6 @@ alias -g W='| wc'
 alias -g H='| head'
 alias -g T='| tail'
 
-# rvm config
-alias ru='rvm use'
-
 # git
 alias git='hub'
 alias gis='git status'
