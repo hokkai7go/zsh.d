@@ -34,6 +34,9 @@ alias -g W='| wc'
 alias -g H='| head'
 alias -g T='| tail'
 
+# rbenv
+alias rbenv='nocorrect rbenv'
+
 # git
 alias git='hub'
 alias gis='git status'
