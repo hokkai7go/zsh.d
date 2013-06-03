@@ -250,3 +250,7 @@ if [ -d /opt/local/bin ] ; then
   export CPPFLAGS="-I/opt/local/include"
 fi
 
+eval "$(rbenv init - zsh)"
+
+# Export path for rbenv
+export PATH="$HOME/.rbenv/bin:$PATH"
