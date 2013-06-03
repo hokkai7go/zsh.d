@@ -68,6 +68,9 @@ alias gta='git treeall'
 # alias sc='ruby script/console'
 # alias sdb='ruby script/dbconsole'
 
+# treasure data
+alias td='nocorrect td'
+
 # rails3
 # alias r='rails'
 alias be='bundle exec'
