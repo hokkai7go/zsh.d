@@ -55,6 +55,7 @@ alias gicl='git clone'
 alias va='vagrant up && vagrant ssh'
 alias vap='vagrant up'
 alias vas='vagrant ssh'
+alias valt='vagrant halt'
 alias vare='vagrant reload'
 alias vapr='vagrant provision'
 
