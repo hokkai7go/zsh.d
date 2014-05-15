@@ -130,4 +130,11 @@ if [[ -d /usr/local/lib/python2.7/site-packages ]]; then
     export PYTHONPATH=/usr/local/lib/python2.7/site-packages:$PYTHONPATH
 fi
 
+##
+# Packer
+
+if [[ -d $HOME/packer ]]; then
+    PATH=$PATH:$HOME/packer
+fi
+
 export PATH
