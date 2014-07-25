@@ -58,6 +58,7 @@ compinit -u
 
 # 文字列
 export LANG=ja_JP.UTF-8
+export LC_ALL=ja_JP.UTF-8
 # export LANG=ja_JP.eucJP
 
 ## auto change directory
